@@ -1,0 +1,4 @@
+nmap -sV -T4 testphp.vulnweb.com
+PORT     STATE SERVICE VERSION
+80/tcp   open  http    Apache httpd 2.4.7
+443/tcp  open  ssl/http Apache httpd 2.4.7
